@@ -1,0 +1,7 @@
+classes.py
+eeg.py
+simulation.py
+utils.py
+
+trained_model.pth
+_pycache_
